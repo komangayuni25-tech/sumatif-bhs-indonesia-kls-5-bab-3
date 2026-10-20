@@ -1,0 +1,8 @@
+{
+  "name": "Tes Sumatif bhs indonesia bab 3 kelas 5",
+  "description": "Aplikasi Tes Sumatif Bahasa Indonesia Bab 3 Kelas V SD Negeri 3 Loloan Timur (Ekspresi Diri Melalui Hobi) dengan 30 butir soal (Pilihan Ganda & Benar-Salah bergambar), panduan teks prosedur, kaidah imbuhan, surat pribadi, sinkronisasi Google Spreadsheet, unduh PDF naskah & hasil tes, serta panel guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
